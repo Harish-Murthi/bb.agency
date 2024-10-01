@@ -1,0 +1,12 @@
+
+.content {
+    color: black;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 150px;
+    font-size: 75px;
+    margin-left: 70px;
+    width: 80%;
+
+}
